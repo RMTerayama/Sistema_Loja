@@ -83,11 +83,7 @@ p{
 .btn a:hover {
 color: var(--lightgreen);
 
-
 }
-
-
-
 
 @media only screen and (max-width: 800px){
   .login{
